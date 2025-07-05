@@ -53,7 +53,8 @@ CHEHRA/
 │
 ├── LICENSE                                    # License file
 └── README.md                                  # Project documentation
-```
+
+---
 
 
 **Please Take a look at the Requirements.txt and install all required libraries and modules before running the code**
