@@ -55,7 +55,7 @@ CHEHRA/
 └── README.md                                  # Project documentation
 └── requirements.txt                           # Project dependencies
 
----
+```
 
 
 **Please Take a look at the Requirements.txt and install all required libraries and modules before running the code**
