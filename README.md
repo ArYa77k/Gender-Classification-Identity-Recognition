@@ -53,7 +53,6 @@ CHEHRA/
 │
 ├── LICENSE                                    # License file
 └── README.md                                  # Project documentation
-
 ---
 
 
