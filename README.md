@@ -3,6 +3,14 @@
 **Hackathon Theme:** Robust Face Recognition and Gender Classification under Adverse Visual Conditions  
 **Organized by:** COMSYS Educational Trust & Warsaw University of Technology  
 
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-1.9+-red.svg)](https://pytorch.org)
+[![OpenCV](https://img.shields.io/badge/OpenCV-4.5+-green.svg)](https://opencv.org)
+[![FaceNet](https://img.shields.io/badge/FaceNet-PyTorch-lightcoral.svg)](https://github.com/timesler/facenet-pytorch)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-Latest-blue.svg)](https://scikit-learn.org)
+[![License](https://img.shields.io/badge/License-Apache%202.0-yellow.svg)](LICENSE)
+[![COMSYS](https://img.shields.io/badge/Hackathon-COMSYS%202025-orange.svg)](https://comsysconf.org/2025)
+[![Team](https://img.shields.io/badge/Team-Chehra-purple.svg)](https://github.com/yourusername/comsys-hackathon-5)
 ---
 
 ## ⚠️ Important Notes Before Use
