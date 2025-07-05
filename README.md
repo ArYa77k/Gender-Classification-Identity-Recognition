@@ -1,5 +1,5 @@
 # COMSYS Hackathon-5 (2025) Submission 🔬🤖  
-**Team:** [Your Team Name]  
+**Team:** _Chehra_  
 **Hackathon Theme:** Robust Face Recognition and Gender Classification under Adverse Visual Conditions  
 **Organized by:** COMSYS Educational Trust & Warsaw University of Technology  
 
@@ -57,6 +57,7 @@
 
 
 ---
+**Please Take a look at the Requirements.txt and install all required libraries and modules before running the code**
 
 ## 🧠 Task A – Gender Classification (Binary)
 
@@ -137,8 +138,8 @@
 
 ## 👨‍🔬 Contact
 If you'd like to reach out for queries or improvements:
-- Name: [Your Name]
-- Email: [Your Email]
+- Name: Md Haaris Hussain
+- Email: mdhaarishussain@gmail.com
 
 ---
 
