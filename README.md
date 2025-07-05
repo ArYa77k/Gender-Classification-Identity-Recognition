@@ -34,37 +34,29 @@
 
 ---
 
-## 📁 Folder Structure (Recommended for Kaggle)
+## Directory Structure
 
-/comsys-hackathon-5
+```
+CHEHRA/
 │
-├── Task_A/
-│ ├── model_1/ # Augmentation-based Model
-│ │ ├── train_model_1.ipynb
-│ │ ├── validate_model_1.ipynb
-│ │ └── best_gender_model_1.pth
-│ │
-│ ├── model_2/ # Cropped face model (MT-CNN based)
-│ │ ├── train_model_2.ipynb
-│ │ ├── validate_model_2.ipynb
-│ │ ├── central_crop_ensemble_inference.ipynb
-│ │ └── best_gender_model_2.pth
-│ │
-│ └── utils/
-│ ├── dataloader.py
-│ └── transforms.py
+├── Task_A/                                    # Gender Classification Task
+│   ├── resnet_18_M1_model_with_weights.pt     # Model 1 with weights
+│   ├── resnet18_M1_state_dictionary.pth       # Model 1 state dictionary
+│   ├── resnet_18_M2_model_with_weights.pt     # Model 2 with weights
+│   ├── resnet18_M2_state_dictionary.pth       # Model 2 state dictionary
+│   └── Team_Chehra_Task_A (1).ipynb          # Task A notebook
 │
-├── Task_B/
-│ ├── train_face_encoder.ipynb
-│ ├── validate_face_encoder.ipynb
-│ ├── inference_face_encoder.ipynb
-│ └── best_face_encoder.pth
+├── Task_B/                                    # Face Recognition Task
+│   ├── best_face_encoder (2).pth              # Best face encoder model
+│   ├── COMSYS_Task_B_Identity_Recognition_Summary.docx # Task B documentation
+│   └── Team_Chehra_Submission_B (1).ipynb    # Task B notebook
 │
-├── README.md ← You are here
-└── requirements.txt
-
+├── LICENSE                                    # License file
+└── README.md                                  # Project documentation
 
 ---
+
+
 **Please Take a look at the Requirements.txt and install all required libraries and modules before running the code**
 
 ## 🧠 Task A – Gender Classification (Binary)
