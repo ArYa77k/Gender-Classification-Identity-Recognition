@@ -44,12 +44,12 @@ CHEHRA/
 │   ├── resnet18_M1_state_dictionary.pth       # Model 1 state dictionary
 │   ├── resnet_18_M2_model_with_weights.pt     # Model 2 with weights
 │   ├── resnet18_M2_state_dictionary.pth       # Model 2 state dictionary
-│   └── Team_Chehra_Task_A (1).ipynb          # Task A notebook
+│   └── Team_Chehra_Task_A.ipynb          # Task A notebook
 │
 ├── Task_B/                                    # Face Recognition Task
-│   ├── best_face_encoder (2).pth              # Best face encoder model
+│   ├── best_face_encoder.pth              # Best face encoder model
 │   ├── COMSYS_Task_B_Identity_Recognition_Summary.docx # Task B documentation
-│   └── Team_Chehra_Submission_B (1).ipynb    # Task B notebook
+│   └── Team_Chehra_Submission_B.ipynb    # Task B notebook
 │
 ├── LICENSE                                    # License file
 └── README.md                                  # Project documentation
