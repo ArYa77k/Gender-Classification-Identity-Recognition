@@ -128,6 +128,36 @@ CHEHRA/
 > ⚠️ DO NOT change the training or backbone architecture unless retraining entirely.
 
 ---
+## 📥 Gender Classification – Custom Inference Guide
+
+> 🧪 Want to test your own folder of images (with `male/` and `female/` subfolders)?  
+> Use the included script: **`gender_inference.py`**
+
+This script performs:
+- Model loading
+- Folder-based batch inference
+- Generation of classification report (Precision, Recall, Accuracy, F1)
+- Confusion matrix visualization
+
+---
+***Where to update folder location for testing?***
+```python
+if __name__ == "__main__":
+    model_path = "best_gender_model.pth"  # 🔁 Change this to your model file, e.g. "Task_A/resnet_18_M1_model_with_weights.pt"
+    val_folder = "/path/to/your/validation/folder"  # 🔁 Change this to the path of your custom dataset folder
+
+---
+1. **Ensure your folder structure is:**
+
+your_data_folder/
+├── male/
+│ ├── img1.jpg
+│ ├── img2.jpg
+├── female/
+│ ├── img1.jpg
+│ ├── img2.jpg
+
+---
 
 ## ✨ Final Notes
 
