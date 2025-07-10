@@ -563,6 +563,7 @@ def run_val_inference():
         plt.show()
     else:
         print(f"⚠️ Too many classes ({len(all_classes)}) to display confusion matrix clearly.")
+        print(f"Please refer to the face_recogniton_result.csv ")
 
     # --- VISUALIZE SAMPLES ---
     visualize = input(f"\n🖼 Do you want to visualize {VISUALIZE_SAMPLES} sample matches? (y/n): ").strip().lower()
@@ -587,6 +588,7 @@ if __name__ == "__main__":
 
 # ---------------- Entry Point ---------------- #
     # Ask for test/val path
+    print(f"Task_A Validation")
     image_folder = input("🔍 Enter path to validation or test folder: ").strip()
 
     # Base directory of the script
