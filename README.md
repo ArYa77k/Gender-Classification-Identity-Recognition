@@ -126,9 +126,7 @@ python test.py
 
 ## ✉️ Contact
 
-- Name: Md Haaris Hussain  
-- Email: mdhaarishussain@gmail.com
+- Name: Aryaman Jha  
+- Email: aryadhawork@gmail.com
 
 ---
-
-**Good luck to everyone! May the best model win 🏆**
